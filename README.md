@@ -2,7 +2,6 @@
 
 Main user stories: Opening, editing and saving files, text encoding, text decoding, reverse text to speech and audio tunning.
 
-Project management method: Agile.  
 Design patterns: singleton, strategy, adapter, factory.  
 Testing: Junit tests.  
 
